@@ -1,2 +1,2 @@
 # BeautySalonManager
-Beauty &amp; Hair Salon Online Manager Software.
+Beauty &amp; Hair Salon Online Manager Software!
